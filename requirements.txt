@@ -1,0 +1,7 @@
+sklearn
+pandas
+numpy
+matplotlib
+seaborn
+sphinx
+sphinx_rtd_theme
